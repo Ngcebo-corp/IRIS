@@ -1,0 +1,6 @@
+{
+  "name": "IRIS: Futuristic Android Assistant",
+  "description": "An interactive humanoid robot doll assistant featuring customizable beautiful robot doll profiles (Barbie, Moana, Iris) with expressive 3D facial animations, eyelashes, cyber hairstyles, real-time lip-sync, and voice interaction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
